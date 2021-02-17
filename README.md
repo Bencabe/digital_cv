@@ -1,5 +1,3 @@
-# Ben McCabe
-
 [![ben-mccabe](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png) ben-mccabe](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![https://github.com/Bencabe](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-16x16.png) github.com/Bencabe](https://github.com/) / ![image](https://icons.iconarchive.com/icons/bokehlicia/pacifica/16/gmail-icon.png) bencabe93@gmail.com / ![image](https://icons.iconarchive.com/icons/icons8/windows-8/16/Mobile-Phone-icon.png) +353870578460
 
 
