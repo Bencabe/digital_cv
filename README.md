@@ -57,7 +57,6 @@
 
 **Languages:** Bash, Java, Javascript, Python, Ruby, SQL <br>
 **Tools & Technologies**: AWS, Bootstrap, Django, Flask, HTML/CSS, JQuery, Matplotlib, Nginx, Pandas, React, Scikit-learn
-
 <br><br>
 
 ## Natural Languages
