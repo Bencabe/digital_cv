@@ -2,6 +2,28 @@
 
 [![ben-mccabe](https://i.stack.imgur.com/gVE0j.png) ben-mccabe](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![https://github.com/Bencabe](https://i.stack.imgur.com/tskMh.png) github.com/Bencabe](https://github.com/) / :email: bencabe93@gmail.com / :telephone_receiver: +353870578460
 
+## Education
+
+**MSc Computer Science**
+- Grade Award: 1.1
+- University College Dublin
+- 2020
+<br><br>
+
+**HDip Computer Science**
+- Grade Award: 1.1
+- University College Dublin
+- 2019 - 2020
+<br><br>
+
+**BSc Social Science**
+- Grade Award: 2.1
+- University College Dublin
+- 2012 - 2015
+   <br><br>
+
+
+## College and Personal Projects
 
 
 
@@ -10,53 +32,14 @@
 
 
 
+## Professional Experience 
+
+**Data Analyst, [HealthBeacon](https://healthbeacon.com/)**  _(July 2017 - August 2019)_
+- Processed and analysed data in Python using libraries such as NumPy, Pandas, Matplotlib and Seaborn.
+- Created a suite of custom reports using Power BI and advanced Excel techniques.
+- Responsible for regularly providing business-critical reports.
+- Queried the company's MySQL database upon request.
+<br><br>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bencabe/digital_cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
