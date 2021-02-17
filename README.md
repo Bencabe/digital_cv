@@ -1,6 +1,7 @@
 # Ben McCabe
 
-[![ben-mccabe](https://i.stack.imgur.com/gVE0j.png) ben-mccabe](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![https://github.com/Bencabe](https://i.stack.imgur.com/tskMh.png) github.com/Bencabe](https://github.com/) / :email: bencabe93@gmail.com / :telephone_receiver: +353870578460
+[![ben-mccabe](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png) ben-mccabe](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![https://github.com/Bencabe](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-16x16.png) github.com/Bencabe](https://github.com/) / ![image](https://icons.iconarchive.com/icons/bokehlicia/pacifica/16/gmail-icon.png) bencabe93@gmail.com / ![image](https://icons.iconarchive.com/icons/icons8/windows-8/16/Mobile-Phone-icon.png) +353870578460
+
 
 ## Education
 
@@ -39,7 +40,7 @@
 
 - Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations.  
 - Used a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
-- Visualized the historical trend using the javasxript library Chart.js.
+- Visualised bike avilability using the javascript library Chart.js.
 <br><br>
 
 
@@ -54,8 +55,17 @@
 
 ## Technical Skills
 
-**Languages:** Bash, Java, Javascript, Python, Ruby, SQL
+**Languages:** Bash, Java, Javascript, Python, Ruby, SQL <br>
 **Tools & Technologies**: AWS, Bootstrap, Django, Flask, HTML/CSS, JQuery, Matplotlib, Nginx, Pandas, React, Scikit-learn
+
+<br><br>
+
+## Natural Languages
+
+**English:** Native <br>
+**French:** Fluent <br>
+**German:** Intermediate <br>
+ 
 
 
 
