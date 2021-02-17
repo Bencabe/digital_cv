@@ -1,12 +1,37 @@
-## Welcome to GitHub Pages
+# Ben McCabe
 
-You can use the [editor on GitHub](https://github.com/Bencabe/digital_cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[![ben-mccabe](https://i.stack.imgur.com/gVE0j.png) ben-mccabe](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![https://github.com/Bencabe](https://i.stack.imgur.com/tskMh.png) github.com/Bencabe](https://github.com/) / :email: bencabe93@gmail.com / :telephone_receiver: +353870578460
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
