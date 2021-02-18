@@ -37,7 +37,6 @@
 - Deployed the web application using Nginx on a virtual machine hosted by the university. 
 <br>
 
-
 **Dublin Bikes Availability Prediction** 
 
 - Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations.  
@@ -45,6 +44,11 @@
 - Visualised bike avilability using the javascript library Chart.js.
 <br><br>
 
+## Technical Skills
+
+**Languages:** Bash, Java, Javascript, Python, Ruby, SQL <br>
+**Tools & Technologies**: AWS, Bootstrap, Django, Flask, HTML/CSS, JQuery, Matplotlib, Nginx, Pandas, React, Scikit-learn
+<br><br>
 
 ## Professional Experience 
 
@@ -53,12 +57,6 @@
 - Created a suite of custom reports using Power BI and advanced Excel techniques.
 - Responsible for regularly providing business-critical reports.
 - Queried the company's MySQL database upon request.
-<br><br>
-
-## Technical Skills
-
-**Languages:** Bash, Java, Javascript, Python, Ruby, SQL <br>
-**Tools & Technologies**: AWS, Bootstrap, Django, Flask, HTML/CSS, JQuery, Matplotlib, Nginx, Pandas, React, Scikit-learn
 <br><br>
 
 ## Natural Languages
