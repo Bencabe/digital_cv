@@ -1,6 +1,8 @@
 # Ben McCabe
 
-[![LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png) LinkedIn](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![GitHub](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-16x16.png) GitHub](https://github.com/Bencabe) / ![image](https://icons.iconarchive.com/icons/bokehlicia/pacifica/16/gmail-icon.png) bencabe93@gmail.com / ![image](https://icons.iconarchive.com/icons/icons8/windows-8/16/Mobile-Phone-icon.png) +353870578460
+**contact:** ![image](https://icons.iconarchive.com/icons/bokehlicia/pacifica/16/gmail-icon.png) bencabe93@gmail.com / ![image](https://icons.iconarchive.com/icons/icons8/windows-8/16/Mobile-Phone-icon.png) +353870578460
+
+**Social:** [![LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png) LinkedIn](https://www.linkedin.com/in/ben-mccabe-7a084b141/) / [![GitHub](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/github-16x16.png) GitHub](https://github.com/Bencabe)
 
 
 ## Education
@@ -39,7 +41,7 @@
 **Dublin Bikes Availability Prediction** 
 
 - Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations.  
-- Used a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
+- Develped a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
 - Visualised bike avilability using the javascript library Chart.js.
 <br><br>
 
