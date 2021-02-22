@@ -15,7 +15,7 @@
 - Advanced Machine Learning With Python: A
 <br>
 
-**HDip Computer Science 1.1** _(2019-2020)_
+**HDip Computer Science, 1.1** _(2019-2020)_
 - Python Functional Programming: A-
 - Python OOP: A-
 - Data Structures and Algorithms: A
