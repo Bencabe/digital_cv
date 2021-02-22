@@ -7,22 +7,29 @@
 
 ## Education
 
-**MSc Computer Science**
-- Grade Award: 1.1
-- University College Dublin
-- 2020
+**MSc Computer Science, 1.1** _(2020)_
+- Summer Reasearch and Software Engineering Project: A-
+- Advanced Data Structures and Algorithms in Java: A-
+- Exploring Ruby: A+
+- Text Analytics: A-
+- Advanced Machine Learning With Python: A
 <br>
 
-**HDip Computer Science**
-- Grade Award: 1.1
-- University College Dublin
-- 2019 - 2020
+**HDip Computer Science 1.1** _(2019-2020)_
+- Python Functional Programming: A-
+- Python OOP: A-
+- Data Structures and Algorithms: A
+- Relational Databases & Information Systems: B+
+- Operating Systems: A
+- Networks & Internet Systems: A
+- Web Application Development: B+
+- Java Programming: A-
+- Software Engineering: A
+- Computational Thinking: A+
+- Data Analytics: A+
 <br>
 
-**BSc Social Science**
-- Grade Award: 2.1
-- University College Dublin
-- 2012 - 2015
+**BSc Social Science, 2.1** _(2012-2015)_
 <br><br>
 
 
@@ -42,6 +49,13 @@
 - Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations.  
 - Develped a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
 - Visualised bike avilability using the javascript library Chart.js.
+<br>
+
+**Recipe Manager**  _(available on GitHub)_
+
+- Created a web app designed to store recipes and ingredients and retrieve relevant receipes based on available ingredients
+- Developed a RESTful Web App with Django for request handling. 
+- Leveraged Jquery Ajax to make asynchronous HTTP requests 
 <br><br>
 
 ## Technical Skills
