@@ -8,7 +8,7 @@
 ## Education
 
 **MSc Computer Science, 1.1** _(University College Dublin: 2020)_
-- Summer Reasearch and Software Engineering Project: A-
+- Summer Research and Software Engineering Project: A-
 - Advanced Data Structures and Algorithms in Java: A-
 - Exploring Ruby: A+
 - Text Analytics: A-
@@ -40,20 +40,20 @@
 - Developed a RESTful Web App with Django for request handling
 - Leveraged Google Maps API to represent bus stop location and the journey time between stops
 - Created a database of weather conditions and bus journeys in 2018
-- Developed a Gradient Boosting Machine Learning Model to make journey time prediections based on all dublin bus journeys in 2018
+- Developed a Gradient Boosting Machine Learning Model to make journey time predictions based on all Dublin Bus journeys in 2018
 - Deployed the web application using Nginx on a virtual machine hosted by the university
 <br>
 
 **Dublin Bikes Availability Prediction** 
 
 - Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations 
-- Develped a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
-- Visualised bike avilability using the javascript library Chart.js
+- Developed a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
+- Visualised bike availability using the Javascript library Chart.js
 <br>
 
 **Recipe Manager**  _(available on GitHub)_
 
-- Created a web app designed to store and retrieve relevant receipes based on available ingredients
+- Created a web app designed to store and retrieve relevant recipes based on available ingredients
 - Developed a RESTful Web App with Django for request handling
 - Leveraged Jquery Ajax to make asynchronous HTTP requests 
 <br><br>
