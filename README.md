@@ -53,7 +53,7 @@
 
 **Recipe Manager**  _(available on GitHub)_
 
-- Created a web app designed to store recipes and ingredients and retrieve relevant receipes based on available ingredients
+- Created a web app designed to store and retrieve relevant receipes based on available ingredients
 - Developed a RESTful Web App with Django for request handling
 - Leveraged Jquery Ajax to make asynchronous HTTP requests 
 <br><br>
