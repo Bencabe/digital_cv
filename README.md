@@ -7,7 +7,7 @@
 
 ## Education
 
-**MSc Computer Science, 1.1** _(2020)_
+**MSc Computer Science, 1.1** _(University College Dublin: 2020)_
 - Summer Reasearch and Software Engineering Project: A-
 - Advanced Data Structures and Algorithms in Java: A-
 - Exploring Ruby: A+
@@ -15,7 +15,7 @@
 - Advanced Machine Learning With Python: A
 <br>
 
-**HDip Computer Science, 1.1** _(2019-2020)_
+**HDip Computer Science, 1.1** _(University College Dublin: 2019-2020)_
 - Python Functional Programming: A-
 - Python OOP: A-
 - Data Structures and Algorithms: A
@@ -29,7 +29,7 @@
 - Data Analytics: A+
 <br>
 
-**BSc Social Science, 2.1** _(2012-2015)_
+**BSc Social Science, 2.1** _(University College Dublin: 2012-2015)_
 <br><br>
 
 
@@ -37,24 +37,24 @@
 
 **Dublin Bus Journey Time Prediction** _(available on GitHub)_
 
-- Developed a RESTful Web App with Django for request handling. 
-- Leveraged Google Maps API to represent bus stop location and the journey time between stops.
+- Developed a RESTful Web App with Django for request handling
+- Leveraged Google Maps API to represent bus stop location and the journey time between stops
 - Created a database of weather conditions and bus journeys in 2018
 - Developed a Gradient Boosting Machine Learning Model to make journey time prediections based on all dublin bus journeys in 2018
-- Deployed the web application using Nginx on a virtual machine hosted by the university. 
+- Deployed the web application using Nginx on a virtual machine hosted by the university
 <br>
 
 **Dublin Bikes Availability Prediction** 
 
-- Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations.  
+- Developed a RESTful Web App with Flask to predict the availability of bikes and Dublin Bike stations 
 - Develped a Decision Tree Machine Learning Model to predict bike availability based on historic data and weather information
-- Visualised bike avilability using the javascript library Chart.js.
+- Visualised bike avilability using the javascript library Chart.js
 <br>
 
 **Recipe Manager**  _(available on GitHub)_
 
 - Created a web app designed to store recipes and ingredients and retrieve relevant receipes based on available ingredients
-- Developed a RESTful Web App with Django for request handling. 
+- Developed a RESTful Web App with Django for request handling
 - Leveraged Jquery Ajax to make asynchronous HTTP requests 
 <br><br>
 
@@ -67,10 +67,10 @@
 ## Professional Experience 
 
 **Data Analyst, [HealthBeacon](https://healthbeacon.com/)**  _(July 2017 - August 2019)_
-- Processed and analysed data in Python using libraries such as NumPy, Pandas, Matplotlib and Seaborn.
-- Created a suite of custom reports using Power BI and advanced Excel techniques.
-- Responsible for regularly providing business-critical reports.
-- Queried the company's MySQL database upon request.
+- Processed and analysed data in Python using libraries such as NumPy, Pandas, Matplotlib and Seaborn
+- Created a suite of custom reports using Power BI and advanced Excel techniques
+- Responsible for regularly providing business-critical reports
+- Queried the company's MySQL database upon request
 <br><br>
 
 ## Natural Languages
